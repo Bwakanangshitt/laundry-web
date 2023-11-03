@@ -1,6 +1,7 @@
 <?php
 include 'controller/main.php';
 //testing push and pull
+//if this appears, the collaboration realtime edit works
 ?>
 
 <div class="login_panel">
