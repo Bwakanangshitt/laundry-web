@@ -4,8 +4,5 @@
 			"path": "."
 		}
 	],
-	"settings": {
-		"liveServer.settings.port": 8080,
-		"php.executablePath": "C:/xampp/php/php.exe"
-	}
+	"settings": {}
 }
