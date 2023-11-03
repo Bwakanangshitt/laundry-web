@@ -1,2 +1,3 @@
 <?php
-header("Location: Affordawashweb/login.php");
+header("Location: /laundry-web/Affordawashweb/login.php");
+exit();
